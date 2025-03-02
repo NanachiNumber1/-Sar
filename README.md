@@ -9,3 +9,7 @@ Depencies for gui version : sudo pacman -S pipewire wireplumber pipewire-alsa pi
 or for cli version : sudo pacman -S pipewire wireplumber pipewire-alsa pipewire-pulse pipewire-jack alsa-utils
 
 I'm really bad at this but it's usefull to me so maybe it wil be to you.
+
+just do chmod +x "script name"  
+
+and ./scriptname.sh
